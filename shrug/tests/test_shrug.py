@@ -1,4 +1,4 @@
-from shrug import shrug
+from shrug.const import shrug
 
 
 def test_shrug():
