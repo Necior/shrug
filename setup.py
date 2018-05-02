@@ -9,5 +9,5 @@ setup(
     packages=['shrug'],
     tests_require=['pytest', 'pytest-runner'],
     url='https://github.com/Necior/shrug',
-    version='0.1.1',
+    version='0.1.2',
 )
